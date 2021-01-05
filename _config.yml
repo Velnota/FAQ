@@ -29,7 +29,7 @@ use_authors: false #Set this to false to disable showing post authors
 
 brand_logo: VelnotaLogo.svg
 brand_name: Velnota
-header: How can we help you?
+header: Hey, how can we help?
 subheader: Help Center
 
 meta_image: VelnotaLogo.png
@@ -57,8 +57,8 @@ nav_button: Return to Velnota
 nav_button_link: https://velnota.com/
 
 # More Help
-help_one_title: Feedback
-help_one_content: If you have any feedback, post them on the Velnota wall
+help_one_title: Issues or Feedback
+help_one_content: If you have any issues or feedback, post them on the Velnota wall
 help_one_button: Velnota's Wall
 help_one_link: https://velnota.com/wall/3/
 

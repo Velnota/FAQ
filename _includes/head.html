@@ -1,6 +1,5 @@
 <head>
   <meta charset="UTF-8">
-  <link href="http://gmpg.org/xfn/11" rel="profile">
 
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
@@ -16,7 +15,7 @@
 
   <title>
     {% if page.title == "Home" %}
-      {{ site.title }}
+      Help Center | {{ site.title }}
     {% else %}
       {{ page.title }} | {{ site.title }}
     {% endif %}
@@ -32,4 +31,7 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}atom.xml">
+
+  <!-- JS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/simple-jekyll-search/1.9.1/simple-jekyll-search.min.js" integrity="sha512-gABzh+zgo1Eh5HMdD2IMOjeaQAjl9v/MrA3xbZnMTRR5wC4x3WxurJo6yg5EWj1zfNz0qoXK/rKVP5Are0E4QQ==" crossorigin="anonymous"></script>
 </head>

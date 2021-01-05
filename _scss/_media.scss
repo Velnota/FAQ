@@ -6,6 +6,15 @@
   max-width: 100%;
 }
 
+// Used for posts
+.img-responsive-md img {
+  display: block;
+  height: auto;
+  max-width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 // object-fit support is coming to Microsoft Edge
 // https://developer.microsoft.com/en-us/microsoft-edge/platform/status/objectfitandobjectposition/
 .img-fit-cover {

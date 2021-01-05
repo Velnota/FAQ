@@ -38,3 +38,48 @@
 #anglesvg {
   display: block;
 }
+
+#search-input {
+  padding: 5px 10px 5px 10px;
+  background-color: $primary-color;
+  outline: none;
+  border-width: 0 0 2px;
+  border-color: $secondary-color-dark;
+  transition: all ease 0.2s;
+  width: 55%;
+
+  &::placeholder {
+    color: $secondary-color-dark;
+  }
+  &:focus{
+    color: $white;
+    border-bottom-width: 5px;
+    border-bottom-color: $secondary-color;
+
+    &::placeholder, &::-ms-input-placeholder, &:-ms-input-placeholder {
+      color: $white;
+    }
+  }
+}
+
+.search-dropdown {
+  list-style-type: none;
+  a:not(:hover) {
+    color: $white;
+    opacity: 0.8;
+    transition: all ease 0.2s;
+  }
+  li {
+    transition: all ease 0.3s;
+    //&:hover {
+    //  transform: translateY(-2px);
+    //}
+  }
+}
+
+ul.search-dropdown {
+  color: $white;
+  opacity: 0.8;
+  padding-left: 0;
+  margin-left: 0;
+}
