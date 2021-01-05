@@ -20,14 +20,14 @@
 
 title: Velnota
 description:
-baseurl: /
+baseurl: ""
 url: https://support.velnota.com
 permalink: /:categories/:title
 
 content_type: Support Center #Define whether this is a knowledge base, help center, or something else
 use_authors: false #Set this to false to disable showing post authors
 
-brand_logo: VelnotaLogo.png
+brand_logo: VelnotaLogo.svg
 brand_name: Velnota
 header: How can we help you?
 subheader: Support Center
