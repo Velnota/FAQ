@@ -10,17 +10,15 @@ short-description: Changing Account Info like Passwords
 -----
 
 ### Changing your password
-1. Just press "My Profile" at the top of the website. If you see
-   a hamburger bar (three horizontal bars), press that and
-   then press "My Profile." You should arrive at screen like this:
+1. Press on the profile picture at the top and select "Settings."
+   If you see a hamburger bar (three horizontal bars), press that and
+   then press "Settings."
 
-![Your Profile](/assets/screenshots/your-profile.png)
+![Top Nav](/assets/screenshots/topnav.png)
 {: .img-responsive-md}
 
-{:start="2"}
-2. Press "My Info"
-   
-3. Change whatever you need. In this case for passwords,
+{:start="2"} 
+2. Change whatever you need. In this case for passwords,
    scroll down and select "Change your password." Follow the
    instructions and press the button "Change Password."
 

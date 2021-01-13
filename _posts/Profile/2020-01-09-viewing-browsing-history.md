@@ -9,11 +9,11 @@ short-description: Checking out notes you've seen before
 
 -----
 
-1. Just press "My Profile" at the top of the website. If you see
-   a hamburger bar (three horizontal bars), press that and
-   then press "My Profile." You should arrive at screen like this:
+1. Press on the profile picture in the top, then press "Browsing History."
+   If you see a hamburger bar (three horizontal bars), press that and
+   then press "Browsing History."
 
-![Your Profile](/assets/screenshots/your-profile.png)
+![Top Navigation](/assets/screenshots/topnav.png)
 {: .img-responsive-md}
 
 {:start="2"}

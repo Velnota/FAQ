@@ -14,8 +14,8 @@ in your walls.
 
 #### Viewing them on your profile
 
-Just press "My Profile" at the top of the website. If you see
-a hamburger bar (three horizontal bars), press that and
+Press on the profile picture at the top right, then press "My Profile".
+If you see a hamburger bar (three horizontal bars), press that and
 then press "My Profile." You should arrive at screen like this:
 
 ![Your Profile](/assets/screenshots/your-profile.png)

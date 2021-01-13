@@ -10,16 +10,15 @@ short-description: Guide to Showing Who You Are
 -----
 
 ### Changing your profile picture
-1. Just press "My Profile" at the top of the website. If you see
-   a hamburger bar (three horizontal bars), press that and
-   then press "My Profile." You should arrive at screen like this:
+1. Press on the profile picture at the top and select "Settings."
+   If you see a hamburger bar (three horizontal bars), press that and
+   then press "Settings."
 
-![Your Profile](/assets/screenshots/your-profile.png)
+![Top Nav](/assets/screenshots/topnav.png)
 {: .img-responsive-md}
 
 {:start="2"}
-2. Press "My Info"
-3. Press Change Picture and select a picture
+2. Press Edit and select Upload a photo
 
 ### Random Tips
 
