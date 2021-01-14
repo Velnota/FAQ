@@ -31,7 +31,7 @@ or while building your wall.
 4. Press Save
 5. At the top, you should now see an invite link.
    Copy that link and share it with your friends!
-   Note: this link will disappear. Make sure you save it!
+   Note: this link will appear in the settings.
    
 ![wall invite link](/assets/screenshots/wall-invite-link.png)
 {: .img-responsive-md}
