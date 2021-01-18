@@ -10,5 +10,5 @@ or the users on Velnota.
 ## Reporting a Vulnerability
 
 To report a vulnerability, immediately
-email velnota.groups@gmail.com with your
+email feedback@velnota.com with your
 report with a potential solution if possible.
