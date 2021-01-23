@@ -29,7 +29,7 @@ Make sure it's a good passphrase! Long, not random!
 1. Follow step 1 from above.
 2. Press "E-mail" on the side
    
-![Top Nav](/assets/screenshots/SettingsSidebar.png)
+![Settings sidebar](/assets/screenshots/SettingsSidebar.png)
 {: .img-responsive-md}
 
 {:start="3"}
