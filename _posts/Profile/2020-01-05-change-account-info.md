@@ -27,7 +27,12 @@ Make sure it's a good passphrase! Long, not random!
 ### Adding/Changing your Email
 
 1. Follow step 1 from above.
-2. Press "E-Mail"
+2. Press "E-mail" on the side
+   
+![Top Nav](/assets/screenshots/SettingsSidebar.png)
+{: .img-responsive-md}
+
+{:start="3"}
 3. Follow the instructions given by the buttons.
 
 The primary email address is what receives
