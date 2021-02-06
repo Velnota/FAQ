@@ -63,3 +63,9 @@ Then, your note will appear as:
 
 ![Example note](/assets/screenshots/example-md-note.png)
 {: .img-responsive-md}
+
+### Images and videos
+
+You can include images (including gifs) and videos by dragging
+and dropping an image over the editing area. Or, you can press
+one of the icons to add an image or video, respectively.
