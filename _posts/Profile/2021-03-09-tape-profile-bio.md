@@ -9,7 +9,14 @@ short-description: How to add a long bio to your profile
 
 -----
 
-### Taping a note for your profile bio
+### Creating a new note for your profile bio
+
+1. Head to your profile using the top dropdown.
+2. Press on the button that says: "Create a bio for other users to see!"
+3. The note is created in the Public space. It cannot be created in a wall.
+4. Finally, press "Post Note"
+
+### Taping an existing note for your profile bio
 
 1. You must have a public note to tape. It cannot be in any wall or previously
    be in a wall
