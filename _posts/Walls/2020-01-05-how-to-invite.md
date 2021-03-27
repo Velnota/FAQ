@@ -14,6 +14,26 @@ or while building your wall.
 
 ### Already Built Wall
 
+If you're an admin, you can create an invitation link.
+Otherwise, if you have the permission to invite users,
+or the wall is public:
+
+#### Public Wall or Have invite permission
+
+1. Go to your wall
+2. Press "Invite others to wall"
+
+![invite others to wall button](/assets/screenshots/invite-others-to-wall.png)
+{: .img-responsive-md}
+
+3. Select the family members you'd like to directly invite.
+
+They will receive a notification in Velnota. They can click on the
+notification and be directed to a page asking if they'd like to
+accept the invitation or not.
+
+#### Admin
+
 1. Go to your wall
 2. Press the gear icon (settings):
 
